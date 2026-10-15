@@ -1,0 +1,72 @@
+[
+  {
+    "file": "1.jpg",
+    "credit": "Godot13 · CC BY-SA 4.0",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/RUS-2016-Aerial-SPB-Peter_and_Paul_Fortress_02.jpg/960px-RUS-2016-Aerial-SPB-Peter_and_Paul_Fortress_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "title": "Peter and Paul Fortress",
+    "source": "https://commons.wikimedia.org/wiki/File:RUS-2016-Aerial-SPB-Peter_and_Paul_Fortress_02.jpg"
+  },
+  {
+    "file": "2.jpg",
+    "credit": "W. Bulach · CC BY-SA 4.0",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/00_5073_Sankt_Petersburg%2C_Wassiljewski-Insel_-_Marinemuseum.jpg/960px-00_5073_Sankt_Petersburg%2C_Wassiljewski-Insel_-_Marinemuseum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "title": "Old Saint Petersburg Stock Exchange and Rostral Columns",
+    "source": "https://commons.wikimedia.org/wiki/File:00_5073_Sankt_Petersburg%2C_Wassiljewski-Insel_-_Marinemuseum.jpg"
+  },
+  {
+    "file": "3.jpg",
+    "credit": "Ad Meskens · CC BY-SA 4.0",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Saint_Petersburg_Kunstkamera_from_Neva.jpg/960px-Saint_Petersburg_Kunstkamera_from_Neva.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "title": "Kunstkamera",
+    "source": "https://commons.wikimedia.org/wiki/File:Saint_Petersburg_Kunstkamera_from_Neva.jpg"
+  },
+  {
+    "file": "4.jpg",
+    "credit": "Florstein (Telegram:WikiPhoto.Space) · CC BY-SA 4.0",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Palace_Bridge_SPB_%28img2%29.jpg/960px-Palace_Bridge_SPB_%28img2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "title": "Palace Bridge",
+    "source": "https://commons.wikimedia.org/wiki/File:Palace_Bridge_SPB_%28img2%29.jpg"
+  },
+  {
+    "file": "5.jpg",
+    "credit": "Godot13 · CC BY-SA 4.0",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/RUS-2016-Aerial-SPB-Winter_Palace_%28crop%29.jpg/960px-RUS-2016-Aerial-SPB-Winter_Palace_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "title": "Winter Palace",
+    "source": "https://commons.wikimedia.org/wiki/File:RUS-2016-Aerial-SPB-Winter_Palace_%28crop%29.jpg"
+  },
+  {
+    "file": "6.jpg",
+    "credit": "Godot13 · CC BY-SA 4.0",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/RUS-2016-Aerial-SPB-Winter_Palace.jpg/960px-RUS-2016-Aerial-SPB-Winter_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "title": "Palace Square",
+    "source": "https://commons.wikimedia.org/wiki/File:RUS-2016-Aerial-SPB-Winter_Palace.jpg"
+  },
+  {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Admiralty_SPB.jpg/960px-Admiralty_SPB.jpg?utm_source=ru.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "7.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Admiralty_SPB.jpg",
+    "credit": "Florstein (Telegram:WikiPhoto.Space) · CC BY-SA 4.0",
+    "title": "Главное адмиралтейство"
+  },
+  {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/View_of_Alexander_park_and_Neva_River_from_Isaac_Cathedral_Saint_Petersburg.jpg/960px-View_of_Alexander_park_and_Neva_River_from_Isaac_Cathedral_Saint_Petersburg.jpg?utm_source=ru.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "8.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Alexander_park_and_Neva_River_from_Isaac_Cathedral_Saint_Petersburg.jpg",
+    "credit": "Wolfgang Moroder · CC BY-SA 3.0",
+    "title": "Александровский сад (Санкт-Петербург)"
+  },
+  {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/The_Bronze_Horseman_%28St._Petersburg%2C_Russia%29.jpg/960px-The_Bronze_Horseman_%28St._Petersburg%2C_Russia%29.jpg?utm_source=ru.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "9.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Bronze_Horseman_%28St._Petersburg%2C_Russia%29.jpg",
+    "credit": "Godot13 · CC BY-SA 3.0",
+    "title": "Медный всадник"
+  },
+  {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Saint_Isaac%27s_Cathedral_in_SPB.jpeg/960px-Saint_Isaac%27s_Cathedral_in_SPB.jpeg?utm_source=ru.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "file": "10.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Saint_Isaac%27s_Cathedral_in_SPB.jpeg",
+    "credit": "Florstein (Telegram:WikiPhoto.Space) · CC BY-SA 4.0",
+    "title": "Исаакиевский собор"
+  }
+]
